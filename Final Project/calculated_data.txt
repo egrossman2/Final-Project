@@ -1,0 +1,2 @@
+Total confirmed cases in India: 68571224
+Average confirmed cases per state in India: 1853276.3243243243
